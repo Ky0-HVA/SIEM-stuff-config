@@ -1,5 +1,5 @@
 # SIEM-stuff-config
-Update config and parser log for SIEM
+Upload and Share config and parser log for SIEM
 
 ## SIEM Config
 
