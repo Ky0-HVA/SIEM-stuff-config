@@ -1,3 +1,6 @@
+## Logs Centralized Architecture
+![View Architecture](Log-centralize-desc.png)
+
 # SIEM-stuff-config
 Upload & Share config and Log parser for SIEM
 
